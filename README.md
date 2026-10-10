@@ -27,7 +27,8 @@ Paste a public GitHub issue URL. IssuePilot AI fetches the issue and the reposit
 
 **Target users:** students, first-time open-source contributors, hackathon participants.
 
-![IssuePilot AI screenshot](docs/screenshot.png)
+![IssuePilot AI screenshot](<img width="1862" height="768" alt="image" src="https://github.com/user-attachments/assets/32074e6c-26d3-44dc-8086-abf8a42f971b" />
+)
 <!-- Add a screenshot or GIF of a real run at docs/screenshot.png before submitting. -->
 
 ## AI component (model disclosure)
